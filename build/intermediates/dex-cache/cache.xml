@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5c83727c51ad58222120711d9a062fa11deee0ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\29aa150a8c01d042788ee88e942cfbc241b6bb09\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1d924d261cf7a00ed1c65f4ea466513d5e51e08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\4e34b79f872abd93c312a7a4504bb566ab7932f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc332fa950ed9c99501517a19e02bd14a6526e51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\f107d51bcf4b1f12b83bc4231d5d3ca3dcb3f736\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1247ceca229a263b1726e6532367b9bcb2d6b18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\82e477d43aee6af1d3773dbc6c525c83b7b072c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_263f074f7afdf1bcfc06889e85278bc922c9ffbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_66f70f5f071dcda8425c2f760f47a5fc3d0abb77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\6f66fce289e401425875ed8e8b5ab1d87baec6b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_614f099f08e7f5c5c93432275906da86fd63692a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\13fbf2fc116b333dab01bbdd18f8b3307b5ccd46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28d7c21f3b20bae19b4b20f4787b0871d7d9892d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d819ba8e4db1a0b7d84d68c5fb6e6790f82e3b30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\fad3899c0a3a3be32179ef02ca8817284d0b4a83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12bf0a9ae2d5b299b554e0cd781929cfacd12b1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\0995c5450c6f783999abe4eab205d27f53d0e80e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab3299a6b1caed8d9a369a48aae0465b0c784548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4102a8bd90cd2461a439bf23c9053f2b47ec0122">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_465474ddad9479cd2f16a9a07631bcd70bb88276\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\2f1b45625339cd48201f521a1defc45f28cf84be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b94aac1c5ac785d57c6ed9b33cbac13d9580db5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\9d76d949a081af693637b32be045e1171319f169\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbfed0afac39fbe2ea9d98cab2a77467979b539a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\8a15fd912fef97cf616566b805df9f36a0803c06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d480ffe91521e983215d3a0896734e58e02ec029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\d7b2b2c768b7c6c9fd23df844f0dbd33a52ac95f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4385548eb68d80652d577c8d7ea1d42c9592a070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodrigo\.android\build-cache\82fc87da27a6c6c7705bb4c497abe42e44777e5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Rodrigo\Desktop\Mi primera App\LAB\LAB\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03adbe9c7c09f70b4af088a8c1123d17d60d28eb\classes.dex" />
+    </item>
+
+</items>
